@@ -2,5 +2,4 @@ flask
 sqlalchemy
 python-dateutil
 openpyxl
-web: gunicorn app:app
 gunicorn
